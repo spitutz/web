@@ -1,6 +1,6 @@
 var urls = new Array();
 urls[0] = "http://urlreturns.cf/golek";
-urls[1] = "http://urlreturns.cf/viklan";
+urls[1] = "http://urlreturns.cf/bgithub";
 urls[2] = "https://twitter.com/jar1tengah/status/1108005995530207233";
 
 var random = Math.floor(Math.random()*urls.length);
