@@ -3,7 +3,7 @@
 //Visit http://javascriptkit.com for this script
 
 //specify page to pop-under
-var popunder="http://ibiet.blogspot.com/"
+var popunder="http://twitter.com/matamelototid"
 
 //specify popunder window features
 //set 1 to enable a particular feature, 0 to disable
