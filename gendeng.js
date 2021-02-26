@@ -1,7 +1,7 @@
 
 function popup() {
 
-var url = "http://twitter.com/matamelototid";
+var url = "https://t.me/s/matamelototreturn";
 
 window.open(url);
 
