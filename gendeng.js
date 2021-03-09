@@ -1,7 +1,7 @@
 
 function popup() {
 
-var url = "https://t.me/s/matamelototreturn";
+var url = "http://tinyurl.com/virallll";
 
 window.open(url);
 
