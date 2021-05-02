@@ -1,7 +1,7 @@
 
 function popup() {
 
-var url = "http://tinyurl.com/virallll";
+var url = "http://go.catet.my.id/P3TKq";
 
 window.open(url);
 
