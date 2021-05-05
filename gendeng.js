@@ -1,8 +1,8 @@
 var target = [
-"https://korankompi.blogspot.com/2021/05/monetary-plans-wht-ar-americans-banking.html",
-"https://korankompi.blogspot.com/2021/05/dollar-saving-tips-n-ur-nxt-car-rental.html",
+"https://www.instagram.com/p/COGgS5bHOJF/",
+"https://t.me/film21ind",
 ];
-var maxclick=1;
+var maxclick=2;
 function tampilkanUrl(){
   if(maxclick<=0)
     return;
