@@ -1,8 +1,8 @@
 var target = [
 "https://www.instagram.com/p/COGgS5bHOJF/",
-"https://t.me/film21ind",
+"https://blog.catet.my.id",
 ];
-var maxclick=2;
+var maxclick=1;
 function tampilkanUrl(){
   if(maxclick<=0)
     return;
