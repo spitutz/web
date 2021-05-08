@@ -1,5 +1,5 @@
 var target = [
-"https://www.instagram.com/p/COGgS5bHOJF/",
+"https://www.youtube.com/watch?v=mVIVB47W2Hc",
 "https://blog.catet.my.id",
 ];
 var maxclick=1;
