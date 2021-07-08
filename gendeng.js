@@ -1,6 +1,6 @@
 var target = [
-"https://www.youtube.com/watch?v=mVIVB47W2Hc",
-"https://blog.catet.my.id",
+"https://www.youtube.com/watch?v=590gt7g5iy8&t=200s",
+"http://fumacrom.com/1DDeW"
 ];
 var maxclick=1;
 function tampilkanUrl(){
