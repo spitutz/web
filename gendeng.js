@@ -1,6 +1,6 @@
 var target = [
 "https://www.youtube.com/watch?v=590gt7g5iy8&t=200s",
-"http://fumacrom.com/1DDeW"
+"https://www.highperformancecpm.com/uw67djb6v?key=365a89d62f8404c34146b5d5cf2a699e"
 ];
 var maxclick=1;
 function tampilkanUrl(){
