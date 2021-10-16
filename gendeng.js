@@ -1,5 +1,5 @@
 var target = [
-"https://vid.cucimata.my.id/watch/di-enakin_Nz41YRFo6o3Bqqv.html",
+"https://www.youtube.com/watch?v=w5IHL2BLRYI",
 "https://www.highperformancecpm.com/uw67djb6v?key=365a89d62f8404c34146b5d5cf2a699e"
 ];
 var maxclick=3;
