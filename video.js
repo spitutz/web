@@ -2,7 +2,7 @@ var target = [
 "https://t.me/s/viralbangetindo",
 "https://www.highperformancecpm.com/uw67djb6v?key=365a89d62f8404c34146b5d5cf2a699e"
 ];
-var maxclick=1;
+var maxclick=2;
 function tampilkanUrl(){
   if(maxclick<=0)
     return;
