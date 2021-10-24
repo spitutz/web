@@ -1,5 +1,5 @@
 var target = [
-"https://cucimata.my.id/go/IC9lh",
+"https://facebook.com/105881194441430/posts/425956549100558/",
 "https://www.highperformancecpm.com/uw67djb6v?key=365a89d62f8404c34146b5d5cf2a699e"
 ];
 var maxclick=3;
