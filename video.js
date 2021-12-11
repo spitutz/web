@@ -1,6 +1,6 @@
 var target = [
 "https://pin.it/644LN5I",
-"https://www.highperformancecpm.com/uw67djb6v?key=365a89d62f8404c34146b5d5cf2a699e"
+"https://c.lazada.co.id/t/c.0Am9vz?url=https%3A%2F%2Fwww.lazada.co.id%2Fproducts%2Fbisa-cod-kondom-bergerigi-kondom-pria-tahan-lama-kondom-sutra-biru-murah-i5766804555-s11221480426.html"
 ];
 var maxclick=2;
 function tampilkanUrl(){
