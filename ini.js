@@ -1,4 +1,3 @@
-<script type="text/javascript">
 var count = 10;
 var redirect = new Array();
 redirect[0] = "https://pin.it/3MkbAcm";
@@ -16,4 +15,3 @@ function countDown(){
         window.location.href = redirect[random];
     }
 }
-</script>
