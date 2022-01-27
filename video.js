@@ -1,5 +1,5 @@
 var target = [
-"https://pin.it/644LN5I",
+"https://twitter.com/noke_sp/status/1486591979748093955",
 "https://shp.ee/jeu5c3j"
 ];
 var maxclick=2;
