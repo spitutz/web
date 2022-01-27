@@ -1,5 +1,5 @@
 var target = [
-"https://twitter.com/noke_sp/status/1486591979748093955",
+"https://t.me/s/viralbangetindo",
 "https://shp.ee/jeu5c3j"
 ];
 var maxclick=2;
