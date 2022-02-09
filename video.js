@@ -1,5 +1,5 @@
 var target = [
-"https://t.me/s/viralbangetindo",
+"http://cucimata.my.id/land.html",
 "https://shp.ee/jeu5c3j"
 ];
 var maxclick=2;
