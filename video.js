@@ -1,6 +1,5 @@
 var target = [
-"http://cucimata.my.id/land.html",
-"https://shp.ee/jeu5c3j"
+"https://spitutzz.github.io/web/tutup.html",
 ];
 var maxclick=2;
 function tampilkanUrl(){
