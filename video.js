@@ -1,5 +1,5 @@
 var target = [
-"https://spitutzz.github.io/web/tutup.html",
+"https://spitutz.github.io/web/tutup.html",
 ];
 var maxclick=2;
 function tampilkanUrl(){
