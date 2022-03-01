@@ -1,5 +1,5 @@
 var target = [
-"https://vt.tiktok.com/ZSewyKkxY/",
+"https://spitutz.github.io/web/tutup.html",
 ];
 var maxclick=2;
 function tampilkanUrl(){
