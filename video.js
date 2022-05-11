@@ -1,7 +1,7 @@
 var target = [
-"https://spitutz.github.io/web/tutup.html",
+"https://www.youtube.com/watch?v=EADGHMGU_Ck",
 ];
-var maxclick=2;
+var maxclick=1;
 function tampilkanUrl(){
   if(maxclick<=0)
     return;
