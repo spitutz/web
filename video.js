@@ -1,5 +1,5 @@
 var target = [
-"https://youtu.be/YEqsJ3anLbM",
+"https://youtu.be/ITB5tA21aBU",
 ];
 var maxclick=1;
 function tampilkanUrl(){
