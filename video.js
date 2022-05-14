@@ -1,5 +1,5 @@
 var target = [
-"https://youtu.be/t1eEWj6aUcY",
+"https://twitch.tv/spitutz",
 ];
 var maxclick=1;
 function tampilkanUrl(){
