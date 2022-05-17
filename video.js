@@ -1,5 +1,5 @@
 var target = [
-"https://twitch.tv/spitutz",
+"https://www.safestgatetocontent.com/d8expv83be?key=14b6cfbf6229584983b1fdd5ddc18f7b",
 ];
 var maxclick=1;
 function tampilkanUrl(){
