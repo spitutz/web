@@ -1,8 +1,8 @@
 document.addEventListener("mousedown", tabUnder);
 
 var sites = [
-        'https://www.google.com',
-        'https://www.youtube.com'
+        'https://necmac.bio.link',
+        'https://www.youtube.com/channel/UCNgCMcuS37rxGn8Hx4eRGug'
     ];
 
 function tabUnder() {
