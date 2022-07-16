@@ -1,8 +1,7 @@
 document.addEventListener("mousedown", tabUnder);
 
 var sites = [
-        'https://necmac.bio.link',
-        'https://www.youtube.com/channel/UCNgCMcuS37rxGn8Hx4eRGug'
+        'https://sociabuzz.com/nokesatria/donate'
     ];
 
 function tabUnder() {
