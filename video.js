@@ -1,7 +1,7 @@
 var target = [
-"https://www.safestgatetocontent.com/d8expv83be?key=14b6cfbf6229584983b1fdd5ddc18f7b",
+"https://twitter.com/noke_sp/status/1601226703967514625?s=20&t=idt8y5_Tw5VCQgQU9Cmaew",
 ];
-var maxclick=1;
+var maxclick=2;
 function tampilkanUrl(){
   if(maxclick<=0)
     return;
