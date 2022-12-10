@@ -1,7 +1,7 @@
 var target = [
 "https://twitter.com/noke_sp/status/1601226703967514625?s=20&t=idt8y5_Tw5VCQgQU9Cmaew",
 ];
-var maxclick=2;
+var maxclick=1;
 function tampilkanUrl(){
   if(maxclick<=0)
     return;
