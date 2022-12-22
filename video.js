@@ -1,5 +1,5 @@
 var target = [
-"https://twitter.com/noke_sp/status/1601545026823409664?s=20&t=StUNYBS2i3pkyxE2FhJ8gA",
+"https://twitter.com/noke_sp/status/1606018305088946176",
 ];
 var maxclick=1;
 function tampilkanUrl(){
