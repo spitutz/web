@@ -1,6 +1,6 @@
 var target = [
 "https://twitter.com/noke_sp/status/1606018305088946176?s=20&t=lj2l_TQVaDHD8zme8Y9pwg",
-"https://shope.ee/5003r1C6PB"
+"https://tokopedia.link/cMPBfayqcwb"
 ];
 var maxclick=1;
 function tampilkanUrl(){
