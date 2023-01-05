@@ -1,5 +1,5 @@
 var target = [
-"https://twitter.com/noke_sp/status/1606018305088946176?s=20&t=lj2l_TQVaDHD8zme8Y9pwg",
+"https://twitter.com/noke_sp/status/1610601144652529664?t=inzPNSxmTKOui69uNGyWtQ&s=19",
 "https://tokopedia.link/iZqUIcJHkwb"
 ];
 var maxclick=1;
