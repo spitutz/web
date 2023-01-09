@@ -1,5 +1,5 @@
 var target = [
-"https://twitter.com/noke_sp/status/1610601144652529664?t=inzPNSxmTKOui69uNGyWtQ&s=19",
+"https://cucimata.my.id",
 "https://tokopedia.link/iZqUIcJHkwb"
 ];
 var maxclick=1;
