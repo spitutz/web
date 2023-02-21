@@ -1,5 +1,5 @@
 var target = [
-"http://google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjLhNKWvuT4AhXkm1YBHcwyBXIQFnoECAoQAQ&url=https://www.youtube.com/shorts/vvTMRMpElnk/&usg=AOvVaw2nDKmHUtbeAr-fZOgxdjPU",
+"https://czp.page.link/tnrV",
 "https://tokopedia.link/iZqUIcJHkwb"
 ];
 var maxclick=1;
