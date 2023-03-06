@@ -1,5 +1,5 @@
 var target = [
-"https://czp.page.link/tnrV"
+"https://czp.page.link/tnrV",
 ];
 var maxclick=1;
 function tampilkanUrl(){
