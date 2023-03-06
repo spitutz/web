@@ -1,6 +1,5 @@
 var target = [
-"https://czp.page.link/tnrV",
-"https://tokopedia.link/iZqUIcJHkwb"
+"https://czp.page.link/tnrV"
 ];
 var maxclick=1;
 function tampilkanUrl(){
