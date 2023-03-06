@@ -1,5 +1,5 @@
 var target = [
-"https://czp.page.link/tnrV",
+"https://spitutz.github.io/web/tutup.html",
 ];
 var maxclick=1;
 function tampilkanUrl(){
