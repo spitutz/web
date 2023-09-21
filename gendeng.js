@@ -1,6 +1,5 @@
 var target = [
-"http://cucimata.my.id/land.html",
-"https://www.highperformancecpm.com/uw67djb6v?key=365a89d62f8404c34146b5d5cf2a699e"
+"https://sociabuzz.com/nokesatria/tribe"
 ];
 var maxclick=1;
 function tampilkanUrl(){
